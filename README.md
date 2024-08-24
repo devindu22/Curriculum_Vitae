@@ -23,7 +23,7 @@ Devindu Malshan | LinkedIn
 Website
 devindu22 (Devindu Malshan) (github.com)
 
-	EDUCATION
+EDUCATION
   
 Kingston University UK – Faculty of Engineering
 Department of Computer Science
