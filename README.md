@@ -46,7 +46,7 @@ Rapid Mobile and Web Application Development
 Front-end Developing
 Apr 2023 - Sep 2022
 
-    LICENSES & CERTIFICATIONS 
+LICENSES & CERTIFICATIONS 
 
 Generative AI Fundamentals 
 Google Cloud
