@@ -64,7 +64,7 @@ Google IT Support Specialization
 Google
 July 2022
 
-    SKILLS 
+SKILLS 
 
 •	Machine Learning
 •	Feature Engineering
