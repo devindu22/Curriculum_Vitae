@@ -1,12 +1,12 @@
 # Curriculum_Vitae
 
-Devindu Malshan
+## Devindu Malshan
 
-PROFILE
+### PROFILE
 
 A Data Science engineer from Kingston University with comprehensive training in computing software engineering from Pearson University. Experienced in mobile and web application development from IJSE, and a Level 3 Diploma in IT at ESOFT Metro Campus. Certified in Generative AI and Machine Learning from Google Cloud, and proficient in Python programming. My skills include machine learning, feature engineering, cloud computing, and IT support. I bring a strong foundation in technical and customer service areas and am ready to contribute effectively to innovative projects and solutions.
 
-CONTACT
+### CONTACT
     
 Address
 162/c, Pragathi Mawatha, Nagoda, Kalutara South, 12000
@@ -23,7 +23,7 @@ Devindu Malshan | LinkedIn
 Website
 devindu22 (Devindu Malshan) (github.com)
 
-EDUCATION
+### EDUCATION
   
 Kingston University UK – Faculty of Engineering
 Department of Computer Science
@@ -46,7 +46,7 @@ Rapid Mobile and Web Application Development
 Front-end Developing
 Apr 2023 - Sep 2022
 
-LICENSES & CERTIFICATIONS 
+### LICENSES & CERTIFICATIONS 
 
 Generative AI Fundamentals 
 Google Cloud
@@ -64,7 +64,7 @@ Google IT Support Specialization
 Google
 July 2022
 
-SKILLS 
+### SKILLS 
 
 •	Machine Learning
 •	Feature Engineering
