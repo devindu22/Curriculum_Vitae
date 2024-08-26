@@ -2,7 +2,7 @@
 
 ## Devindu Malshan
 
-![profile-pic](https://github.com/user-attachments/assets/94dee814-1951-4a84-be71-ad0ea2794dc6)
+<img src="https://github.com/user-attachments/assets/94dee814-1951-4a84-be71-ad0ea2794dc6" width=35% height=35%>
 
 ### PROFILE
 
