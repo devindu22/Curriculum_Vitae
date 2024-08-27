@@ -69,7 +69,11 @@ July 2022
 ### SKILLS 
 
 •	Machine Learning
+
 •	Feature Engineering
+
 •	Cloud Computing
+
 •	Python Programming
+
 •	Customer Service & Troubleshooting
