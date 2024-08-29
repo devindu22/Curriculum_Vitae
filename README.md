@@ -22,9 +22,6 @@ devindu.nwcv@gmail.com
 LinkedIn 
 Devindu Malshan | LinkedIn
 
-
-
-
 ### EDUCATION
   
 Kingston University UK – Faculty of Engineering
