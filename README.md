@@ -23,7 +23,7 @@ LinkedIn
 Devindu Malshan | LinkedIn
 
 Website
-devindu22 (Devindu Malshan) (github.com)
+
 
 ### EDUCATION
   
