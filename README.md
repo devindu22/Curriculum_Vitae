@@ -6,7 +6,7 @@
 
 ### PROFILE
 
-A Data Science engineer from Kingston University with comprehensive training in computing software engineering from Pearson University. Experienced in mobile and web application development from IJSE, and a Level 3 Diploma in IT at ESOFT Metro Campus. Certified in Generative AI and Machine Learning from Google Cloud, and proficient in Python programming. My skills include machine learning, feature engineering, cloud computing, and IT support. I bring a strong foundation in technical and customer service areas and am ready to contribute effectively to innovative projects and solutions.
+A Data Science engineer from Kingston University with comprehensive training in computing software engineering from Pearson Univesity. Experienced in mobile and web application development from IJSE, and a Level 3 Diploma in IT at ESOFT Metro Campus. Certified in Generative AI and Machine Learning from Google Cloud, and proficient in Python programming. My skills include machine learning, feature engineering, cloud computing, and IT support. I bring a strong foundation in technical and customer service areas and am ready to contribute effectively to innovative projects and solutions.
 
 ### CONTACT
     
