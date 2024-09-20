@@ -18,7 +18,7 @@ Pearson University UK – School of Computing
 BTEC Level 5 Higher National Diploma in Computing Software Engineering
 
 Harvard Edx Online
-CS50 Machine Learning in Python
+CS50 - Artificial Intelligence Machine Learning in Python
 Aug 2024
 
 Pearson University UK
