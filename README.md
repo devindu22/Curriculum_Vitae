@@ -61,6 +61,8 @@ July 2022
 
 •	Cloud Computing
 
-•	Python Programming
+•	Cisco
+
+• Java Python C# Programming
 
 •	Customer Service & Troubleshooting
