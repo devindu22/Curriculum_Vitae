@@ -6,7 +6,7 @@
 
 ### PROFILE
 
-Highly motivated Data Science undergraduate with comprehensive knowledge in machine learning, cloud computing, and software engineering. With a strong foundation from Kingston University and specialized certifications in Generative AI and Python programming from Google Cloud, I have honed my skills in developing AI-driven solutions. Additionally, my experience in front-end development and IT support complements my technical proficiency, while fluency in German adds an international perspective to my capabilities. Proficient in Java, Python, C#, and Cisco systems, I am equipped to tackle complex challenges in modern computing environments.
+Highly motivated Data Science undergraduate with comprehensive knowledge in machine learning, cloud computing, and software engineering. With a strong foundation from Kingston University and specialized certifications in Generative AI and Python programming from Google Cloud, I have honed my skills in developing AI-driven solutions. Additionally, my experience in front-end development and IT support complements my techical proficiency, while fluency in German adds an international perspective to my capabilities. Proficient in Java, Python, C#, and Cisco systems, I am equipped to tackle complex challenges in modern computing environments.
 
 ### EDUCATION
   
