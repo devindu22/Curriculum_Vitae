@@ -2,8 +2,6 @@
 
 ## Devindu Malshan
 
-<img src="https://github.com/user-attachments/assets/94dee814-1951-4a84-be71-ad0ea2794dc6" width=35% height=35%>
-
 ### PROFILE
 
 Highly motivated Data Science undergraduate with comprehensive knowledge in machine learning, cloud computing, and software engineering. With a strong foundation from Kingston University and specialized certifications in Generative AI and Python programming from Google Cloud, I have honed my skills in developing AI-driven solutions. Additionally, my experience in front-end development and IT support complements my technical proficiency, while fluency in German adds an international perspective to my capabilities. Proficient in Java, Python, C#, and Cisco systems, I am equipped to tackle complex challenges in modern computing environments.
