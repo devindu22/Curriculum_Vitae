@@ -59,7 +59,7 @@ July 2022
 
 •	Cloud Computing
 
-•	Cisco
+•	Cisco Network Systems
 
 • Java Python C# Programming
 
