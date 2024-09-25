@@ -26,7 +26,7 @@ Nov 2023 – Oct 2024
 Goethe-institute Sri Lanka
 German Language 
 Aug 2023
-Grade: Zertifikat A1
+
 
 Institute of Java and Software Engineering - IJSE
 Rapid Mobile and Web Application Development 
