@@ -24,7 +24,8 @@ Level 3 Diploma in Information Technology
 Nov 2023 – Oct 2024
 
 Goethe-institute Sri Lanka
-German Language 
+German Language
+
 Aug 2023
 
 
