@@ -28,7 +28,6 @@ German Language
 
 Aug 2023
 
-
 Institute of Java and Software Engineering - IJSE
 Rapid Mobile and Web Application Development 
 Front-end Developing
