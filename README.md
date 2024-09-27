@@ -59,6 +59,8 @@ July 2022
 
 •	Cloud Computing
 
+• Front-End Developing
+
 •	Cisco Network Systems
 
 • Java Python C# Programming
