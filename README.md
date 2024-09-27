@@ -19,7 +19,7 @@ Harvard Edx Online
 CS50 - Artificial Intelligence Machine Learning in Python
 Aug 2024
 
-Pearson University UK
+Pearson University UK - Esoft Metro Campus
 Level 3 Diploma in Information Technology
 Nov 2023 – Oct 2024
 
