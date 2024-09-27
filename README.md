@@ -4,7 +4,7 @@
 
 ### PROFILE
 
-Highly motivated Data Science undergraduate with comprehensive knowledge in machine learning, cloud computing, and software engineering. With a strong foundation from Kingston University and specialized certifications in Generative AI and Python programming from Google Cloud, I have honed my skills in developing AI-driven solutions. Additionally, my experience in front-end development and IT support complements my technical proficiency, while fluency in German adds an international perspective to my capabilities. Proficient in Java, Python, C#, and Cisco systems, I am equipped to tackle complex challenges in modern computing environments.
+A dedicated and versatile Data Science student with a strong foundation in cloud computing and artificial intelligence. Currently pursuing a Bachelor of Science (Hons) in Data Science at Kingston University UK, complemented by a BTEC Level 5 Higher National Diploma in Computing Software Engineering from Pearson University. Well-versed in machine learning, feature engineering, and cloud computing with certifications from Google Cloud, including specializations in generative AI and machine learning. Proficient in front-end development, Python, Java, and C#, with practical experience in IT support and troubleshooting. I am skilled in network systems and passionate about leveraging data-driven solutions to solve complex problems.
 
 ### EDUCATION
   
