@@ -29,7 +29,7 @@ Grade: Zertifikat A1
 Aug 2023
 
 Institute of Java and Software Engineering - IJSE
-Rapid Mobile and Web Application Development 
+Rapid Mobile and Web Application Development - RMAD
 Front-end Developing
 Apr 2023 - Sep 2022
 
