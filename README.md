@@ -35,6 +35,8 @@ Apr 2023 - Sep 2022
 
 ### LICENSES & CERTIFICATIONS 
 
+Networking (upcoming)
+
 Generative AI Fundamentals 
 Google Cloud
 Aug 2024
