@@ -33,9 +33,17 @@ Rapid Mobile and Web Application Development - RMAD
 Front-end Developing
 Apr 2023 - Sep 2022
 
+### WORK
+
+Printcare Universal PVT LTD.
+Assistant Consultant - Data Analyst
+2026
+
 ### LICENSES & CERTIFICATIONS 
 
-Networking (upcoming)
+Networking General
+Google
+Sep 2024
 
 Generative AI Fundamentals 
 Google Cloud
